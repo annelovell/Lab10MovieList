@@ -1,0 +1,13 @@
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.csprojAssemblyReference.cache
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.AssemblyInfoInputs.cache
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.AssemblyInfo.cs
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.exe
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.deps.json
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.runtimeconfig.json
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.runtimeconfig.dev.json
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.dll
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\bin\Debug\netcoreapp3.1\Lab10_Movie_List.pdb
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.dll
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.pdb
+C:\Users\pengu\source\repos\Lab10_Movie_List\Lab10_Movie_List\obj\Debug\netcoreapp3.1\Lab10_Movie_List.genruntimeconfig.cache
